@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\bin\Debug\net6.0\odev3soru3.exe
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\bin\Debug\net6.0\odev3soru3.deps.json
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\bin\Debug\net6.0\odev3soru3.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\bin\Debug\net6.0\odev3soru3.dll
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\bin\Debug\net6.0\ref\odev3soru3.dll
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\bin\Debug\net6.0\odev3soru3.pdb
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\obj\Debug\net6.0\odev3soru3.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\obj\Debug\net6.0\odev3soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\obj\Debug\net6.0\odev3soru3.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\obj\Debug\net6.0\odev3soru3.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\obj\Debug\net6.0\odev3soru3.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\obj\Debug\net6.0\odev3soru3.dll
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\obj\Debug\net6.0\ref\odev3soru3.dll
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\obj\Debug\net6.0\odev3soru3.pdb
+C:\Users\90542\Desktop\Pratikler3\odev3soru3\obj\Debug\net6.0\odev3soru3.genruntimeconfig.cache
